@@ -6,8 +6,7 @@ Skilled in JavaScript, React,Bootstrap,Wordpress, HTML, and CSS.
 I love taking challenges in learning new technologies.
 I am a passionate and hard-worker.
 
-Feel free to contact me directly at- rifat209903@gmail.com
-See my GitHub repositories at- github.com/masum209903
+
 
 
 Skills: / REACT / JS / HTML / CSS/BOOTSTRAP/WORDPRESS
