@@ -2,8 +2,8 @@
 #### I am a  Front end developer
 ![I am a  Front end developer](https://media-exp1.licdn.com/dms/image/C5616AQEtyfvNSyeW5Q/profile-displaybackgroundimage-shrink_200_800/0/1629190967332?e=1641427200&v=beta&t=93TvWoiWAl5JlxGDOeDx5rR_eFGLdzjnAa3pmJRISpA)
 
-Passionate full-stack web developer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology. Strong skills to writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
-Skilled in JavaScript, React,Bootstrap,Wordpress, HTML, and CSS.
+'m a Web Developer. An enthusiast of technology always enjoys coding. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I have two years of experience in Web Design. I live in Dinajpur, Bangladesh.   In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles during my free time.
+
 
 Skills: / REACT / JS / HTML / CSS/BOOTSTRAP/WORDPRESS
 
