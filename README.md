@@ -1,7 +1,5 @@
  ### Hi there 👋, My name is Masum
-#### I am a  Front end developer
-
-
+ 
 Passionate full-stack web developer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology. Strong skills to writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
 Skilled in JavaScript, React,Bootstrap,Wordpress, HTML, and CSS.
 
